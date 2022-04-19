@@ -14,7 +14,6 @@ Welcome to my Github page! I'm Raphael and I'm working as mobile/web dev!
 
 <br /> 
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=santanarscs&show_icons=true&hide_border=true" />
 <!--
 **santanarscs/santanarscs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
